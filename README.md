@@ -1,2 +1,2 @@
 # socket-server-java
-Estudando servidor socket com Java
+Estudando socket TCP/IP com Java
